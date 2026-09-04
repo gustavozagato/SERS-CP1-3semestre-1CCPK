@@ -2,6 +2,12 @@
 
 Este repositório contém a resolução de dois notebooks de análise de dados voltados para o setor de eficiência energética e sustentabilidade. Abaixo está a descrição detalhada do que foi desenvolvido em cada um dos arquivos.
 
+EQUIPE:
+Gustavo Zagato Bottechia - RM: 569420
+Davi Q. Zuolo - RM: 571669
+Daniel Vilela Mana - RM: 571632
+Kayo Henderson - RM: 570706
+
 ---
 
 ## 1. SERS_Aula02_Exercícios.ipynb
