@@ -1,4 +1,4 @@
-# Descrição das Atividades de Energias Renováveis e Sustentáveis
+# Atividades de Energias Renováveis e Sustentáveis
 
 Este repositório contém a resolução de dois notebooks de análise de dados voltados para o setor de eficiência energética e sustentabilidade. Abaixo está a descrição detalhada do que foi desenvolvido em cada um dos arquivos.
 
